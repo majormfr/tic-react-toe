@@ -11,3 +11,7 @@ Currently, two official plugins are available:
 
 - npm install
 - npm run dev
+
+# Live Preview
+
+- https://64f625eb029f720822dab224--mohammad-fahad-frontend.netlify.app/
